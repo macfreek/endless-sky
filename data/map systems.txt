@@ -12032,6 +12032,7 @@ system "Deep Space 1Q"
 	haze _menu/haze-black
 	link "Deep Space 19M1"
 	link "Deep Space 1X"
+	link "Deep Space 5N"
 	link "Deep Space 5T"
 	asteroids "small rock" 182 3.2
 	asteroids "medium rock" 57 6.95
